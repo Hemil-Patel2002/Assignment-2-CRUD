@@ -1,0 +1,5 @@
+C:\Users\hemil\Downloads\CRUD - Assignment\AssignmentOneDemo\obj\Debug\net6.0\AssignmentOneDemo.csproj.AssemblyReference.cache
+C:\Users\hemil\Downloads\CRUD - Assignment\AssignmentOneDemo\obj\Debug\net6.0\AssignmentOneDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemil\Downloads\CRUD - Assignment\AssignmentOneDemo\obj\Debug\net6.0\AssignmentOneDemo.AssemblyInfoInputs.cache
+C:\Users\hemil\Downloads\CRUD - Assignment\AssignmentOneDemo\obj\Debug\net6.0\AssignmentOneDemo.AssemblyInfo.cs
+C:\Users\hemil\Downloads\CRUD - Assignment\AssignmentOneDemo\obj\Debug\net6.0\AssignmentOneDemo.csproj.CoreCompileInputs.cache

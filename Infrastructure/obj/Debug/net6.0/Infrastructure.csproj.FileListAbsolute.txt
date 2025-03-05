@@ -1,0 +1,5 @@
+C:\Users\hemil\Downloads\CRUD - Assignment\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\hemil\Downloads\CRUD - Assignment\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hemil\Downloads\CRUD - Assignment\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\hemil\Downloads\CRUD - Assignment\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Users\hemil\Downloads\CRUD - Assignment\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
