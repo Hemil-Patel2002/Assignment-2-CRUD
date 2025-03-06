@@ -20,7 +20,7 @@ namespace Data
         private string dbPath;
         public DataContext()
         {
-            dbPath = "C:\\Users\\keyur\\Documents\\Winter 2024 EFCore\\Day5";
+            dbPath = "C:\\Users\\hemil\\Documents\\Winter 2024 EFCore\\Day5";
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
